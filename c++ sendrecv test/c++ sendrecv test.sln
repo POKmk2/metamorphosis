@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c++ sendrecv test", "c++ sendrecv test.csproj", "{01C06789-96D5-7316-85EA-8F8DDBD0CFCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c++ sendrecv test.Editor", "c++ sendrecv test.Editor.csproj", "{17DC6865-A407-D0E6-0817-D50D9F79D1C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01C06789-96D5-7316-85EA-8F8DDBD0CFCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C06789-96D5-7316-85EA-8F8DDBD0CFCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C06789-96D5-7316-85EA-8F8DDBD0CFCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C06789-96D5-7316-85EA-8F8DDBD0CFCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17DC6865-A407-D0E6-0817-D50D9F79D1C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17DC6865-A407-D0E6-0817-D50D9F79D1C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17DC6865-A407-D0E6-0817-D50D9F79D1C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17DC6865-A407-D0E6-0817-D50D9F79D1C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

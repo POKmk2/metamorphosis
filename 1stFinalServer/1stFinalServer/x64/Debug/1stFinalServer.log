@@ -1,0 +1,19 @@
+﻿  stdafx.cpp
+  1stFinalServer.cpp
+  CBullet.cpp
+  CCharacter.cpp
+c:\users\cyh\documents\visual studio 2017\projects\1stfinalserver\1stfinalserver\ccharacter.cpp(44): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\cyh\documents\visual studio 2017\projects\1stfinalserver\1stfinalserver\ccharacter.cpp(59): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\cyh\documents\visual studio 2017\projects\1stfinalserver\1stfinalserver\ccharacter.cpp(64): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CGameObject.cpp
+  CIOCP.cpp
+  CRoom.cpp
+c:\users\cyh\documents\visual studio 2017\projects\1stfinalserver\1stfinalserver\croom.cpp(133): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CRoomManager.cpp
+  CServerFramework.cpp
+c:\users\cyh\documents\visual studio 2017\projects\1stfinalserver\1stfinalserver\cserverframework.cpp(88): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\cyh\documents\visual studio 2017\projects\1stfinalserver\1stfinalserver\cserverframework.cpp(402): warning C4101: 'hitBulletPacket' :참조되지 않은 지역 변수입니다.
+  CSkillEffect.cpp
+c:\users\cyh\documents\visual studio 2017\projects\1stfinalserver\1stfinalserver\cskilleffect.cpp(16): warning C4101: 't' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+  1stFinalServer.vcxproj -> C:\Users\CYH\documents\visual studio 2017\Projects\1stFinalServer\x64\Debug\1stFinalServer.exe
